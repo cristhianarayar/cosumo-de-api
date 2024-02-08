@@ -1,0 +1,15 @@
+.text-input{
+    width: 500px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    border: solid;
+    margin-left: 300px;
+}
+
+.inpt{
+    margin-left: 500px;
+}
+
+.pre{
+    font-weight: bold
+}

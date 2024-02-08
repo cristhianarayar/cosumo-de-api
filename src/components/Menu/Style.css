@@ -1,0 +1,32 @@
+.my{
+    font-size: 25px;
+    text-decoration: none;
+    color: whitesmoke;
+    margin-right: 20px;
+}
+
+.hom{
+    font-size: 15px;
+    text-decoration: none;
+    color: whitesmoke;
+    margin-right: 10px;
+}
+
+.cat{
+    font-size: 15px;
+    text-decoration: none;
+    color: whitesmoke;
+    margin-right: 10px;
+}
+
+.bus{
+    font-size: 15px;
+    text-decoration: none;
+    color: whitesmoke;
+    margin-right: 10px;
+}
+
+Link :hover{
+    color: rgb(59, 10, 10);
+    cursor: pointer;
+}

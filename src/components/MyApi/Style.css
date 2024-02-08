@@ -1,0 +1,22 @@
+.img-card{
+    width: 250px;
+    height: 250px;
+    padding: 10px;
+}
+
+.text-titñe{
+    text-align: justify;
+}
+
+.title-cat{
+    padding: 70px;
+    text-align: center;
+}
+
+.pre{
+    font-weight: bold
+}
+
+.btn-card{
+    background-color: pink;
+}

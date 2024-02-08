@@ -1,0 +1,41 @@
+.img-carrusel{
+    width: 800px;
+    height: 600px;
+    padding: 50px;
+    margin-left: 600px;
+}
+
+.principal{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+   
+}
+
+.text-princ{
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    margin-right: 80px;
+}
+
+.title{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 60px;
+    color: rgb(231, 151, 164);
+}
+
+.sub1{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 36px;
+}
+
+.sub2{
+    text-align: center;
+    font-size: 36px;
+}
